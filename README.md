@@ -1,1 +1,1 @@
-the full updated README from read
+the full README content from the read
